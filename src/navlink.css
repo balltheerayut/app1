@@ -2,6 +2,7 @@
         background-color: #ced;
         padding: 7px;
         text-align: center;
+        margin: 15px;
 }
 
 .menu {
@@ -9,9 +10,10 @@
         text-decoration: none;
         padding: 2px 5px;
 }
+
 .active_menu{
-    color: red;
-    background-color: yellow;
-    text-decoration: none;
-    padding: 2px 5px;
+        color: red;
+        background-color: yellow;
+        text-decoration: none;
+        padding: 2px 5px;
 }
