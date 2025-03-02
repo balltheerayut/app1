@@ -1,7 +1,11 @@
-import React from 'react'
-import Router3 from './router3'
- 
-export default function App() {
+import React from 'react';
+import FromText from './form-text';
 
-  return <Router3/>
+
+function App() {
+  return(
+    <FromText /> 
+  )
 }
+
+export default App;
